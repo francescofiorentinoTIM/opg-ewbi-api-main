@@ -19,6 +19,8 @@ github.com/evanphx/json-patch v0.5.2 h1:xVCHIVMUu1wtM/VkR9jVZ45N3FhZfYMMYGorLCR8
 github.com/evanphx/json-patch v0.5.2/go.mod h1:ZWS5hhDbVDyob71nXKNL0+PWn6ToqBHMikGIFbs31qQ=
 github.com/evanphx/json-patch/v5 v5.9.0 h1:kcBlZQbplgElYIlo/n1hJbls2z/1awpXxpRi0/FOJfg=
 github.com/evanphx/json-patch/v5 v5.9.0/go.mod h1:VNkHZ/282BpEyt/tObQO8s5CMPmYYq14uClGH4abBuQ=
+github.com/francescofiorentinoTIM/opg-ewbi-operator-main v0.1.0 h1:ooUWAfgH+EP+OUx+sKBtEyJC351ARgf2irNxHsYHB+I=
+github.com/francescofiorentinoTIM/opg-ewbi-operator-main v0.1.0/go.mod h1:P6C/hshFeHtBR0JtHI9bWwcOH3GrGPjwDyz31At2pK8=
 github.com/fsnotify/fsnotify v1.7.0 h1:8JEhPFa5W2WU7YfeZzPNqzMP6Lwt7L2715Ggo0nosvA=
 github.com/fsnotify/fsnotify v1.7.0/go.mod h1:40Bi/Hjc2AVfZrqy+aj+yEI+/bRxZnMJyTJwOpGvigM=
 github.com/fxamacker/cbor/v2 v2.7.0 h1:iM5WgngdRBanHcxugY4JySA0nk1wZorNOpTgCMedv5E=
@@ -68,8 +70,6 @@ github.com/icza/gog v0.0.0-20241010132004-5da24f18211d h1:ZA56WhTKshNVDTPwit0Opb
 github.com/icza/gog v0.0.0-20241010132004-5da24f18211d/go.mod h1:xsNydfFX2ys7eKRjtg6cArkYGQ3GPKZn4GGwQ0cUk5E=
 github.com/invopop/yaml v0.1.0 h1:YW3WGUoJEXYfzWBjn00zIlrw7brGVD0fUKRYDPAPhrc=
 github.com/invopop/yaml v0.1.0/go.mod h1:2XuRLgs/ouIrW3XNzuNj7J3Nvu/Dig5MXvbCEdiBN3Q=
-github.com/francescofiorentinoTIM/opg-ewbi-operator-main v0.0.0-20251104112053-900cd31d9722 h1:zBmPfJ2iS2krn0j0AOFnsXgpsGC/AT9q6jXw/DXafY4=
-github.com/francescofiorentinoTIM/opg-ewbi-operator-main v0.0.0-20251104112053-900cd31d9722/go.mod h1:uxs2Ecw+PIt0lO5+o9hR1N/KUKJDZnz1tmsPpv94b0w=
 github.com/josharian/intern v1.0.0 h1:vlS4z54oSdjm0bgjRigI+G1HpF+tI+9rE5LLzOg8HmY=
 github.com/josharian/intern v1.0.0/go.mod h1:5DoeVV0s6jJacbCEi61lwdGj/aVlrQvzHFFd8Hwg//Y=
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=
