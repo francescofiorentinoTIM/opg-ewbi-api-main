@@ -13,7 +13,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/iancoleman/strcase v0.3.0
 	github.com/icza/gog v0.0.0-20241010132004-5da24f18211d
-	github.com/ipcei-egate-federation/neonephos-opg-ewbi-operator v0.0.0-20251104112053-900cd31d9722
+	github.com/ipcei-egate-federation/neonephos-opg-ewbi-operator v0.1.0
 	github.com/kelseyhightower/envconfig v1.4.0
 	github.com/labstack/echo/v4 v4.11.4
 	github.com/oapi-codegen/runtime v1.1.1
